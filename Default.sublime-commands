@@ -1,0 +1,3 @@
+[
+  { "caption": "Toggle Auto-save", "command": "toggle_auto_save" }
+]
